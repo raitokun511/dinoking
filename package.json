@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "dinoserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "ws": "^8.16.0"
+  }
+}
